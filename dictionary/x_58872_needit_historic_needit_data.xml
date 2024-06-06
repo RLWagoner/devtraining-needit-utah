@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="770f5bf2836602101f9c75a6feaad30a" extends="sys_import_set_row" label="Historic NeedIt Data" max_length="40" name="x_58872_needit_historic_needit_data" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=CELL" label="CELL" max_length="40" name="u_cell" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=TITLE" label="TITLE" max_length="40" name="u_title" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=LNAME" label="LNAME" max_length="40" name="u_lname" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=FNAME" label="FNAME" max_length="40" name="u_fname" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=EMAIL" label="EMAIL" max_length="40" name="u_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=SALUTATION" label="SALUTATION" max_length="40" name="u_salutation" type="string"/>
+    </element>
+</database>
